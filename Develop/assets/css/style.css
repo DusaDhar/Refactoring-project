@@ -33,24 +33,20 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
-    list-style-type: none;
-}
-
 header nav ul li {
     display: inline-block;
 margin-left: 25px;
 }
-
+/* Navigation header text color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraphs font size */
 p {
     font-size: 16px;
 }
-
+/* Background image properties */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +56,23 @@ p {
     background-position: center;
 }
 
+/* Image 1 and 3 properties in 1st section*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Image 2 properties in 1st section */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* 1st section properties */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* 2nd section properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,7 +124,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer title properties */
 footer h2 {
     font-size: 20px;
 }
