@@ -1,4 +1,4 @@
-This is a code refactoring project for a webpage.
+This is a code refactoring project for the Horiseon webpage.
 We were given the html code and its css stylesheet of a webpage for a marketing company called HORISEON. 
 I updated the html code using html semantics and regrouped some css attributes. 
 I also added comments to make the code easier to read.
